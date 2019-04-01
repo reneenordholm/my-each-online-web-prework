@@ -1,5 +1,4 @@
 def my_each(words)
-  words do |list|
-    puts list
+  while words.length > 0
 end
 end
