@@ -1,4 +1,4 @@
 def my_each(words)
-  while
-end
+  words.each do |list|
+    puts list
 end
